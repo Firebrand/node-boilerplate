@@ -1,6 +1,6 @@
 # node-boilerplate
 
-Simply run:
+How to use:
 
 - create a new node project repository on Github (ex. myprojname)
 - <b>git clone https://github.com/Firebrand/node-boilerplate.git</b>
